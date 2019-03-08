@@ -527,10 +527,3 @@ if __name__ == "__main__":
     print "Overall Time: ", stop_main - start_main
     t = float((stop_main - start_main) / 60)
     print "Overall time in minutes : ", t
-#	print #SparseFeature_Water
-#	thefile = open("Water_Percentage.txt","w")
-#	for each_item in waterbody_outputs:
-#		thefile.write("   %s \n" %each_item)
-#	thefile = open("Burnt_Percentage.txt","w")
-#	for each_item in burntarea_outputs:
-#		thefile.write("   %s \n" %each_item)
